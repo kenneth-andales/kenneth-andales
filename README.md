@@ -46,5 +46,8 @@ Here are some ideas to get you started:
 ![figma](https://img.shields.io/badge/Figma-F24E1E?flat-square&logo=figma&logoColor=fff) 
 
 ## Accounts
-###### ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?flat-square&logo=linkedin&logoColor=fff&url=http://left&link=https://www.linkedin.com/in/kenneth-andales-20ba62240)
+![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?flat-square&logo=linkedin&logoColor=fff&link=http://left&link=https://www.linkedin.com/in/kenneth-andales-20ba62240)
+![gmail](https://img.shields.io/badge/Gmail-EA4335?flat-square&logo=gmail&logoColor=fff&link=http://left&link=mailto:keanolida7296@gmail.com)
+
+
 
