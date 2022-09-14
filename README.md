@@ -36,7 +36,7 @@ I am <b>Kenneth Andales</b>, a Fullstack Web Developer that wants to improve and
 ![jquery](https://img.shields.io/badge/JQuery-0769AD?flat-square&logo=jquery&logoColor=fff) 
 ![react](https://img.shields.io/badge/React%20Js-61DAFB?flat-square&logo=react&logoColor=000) 
 ![flutter](https://img.shields.io/badge/Flutter-02569B?flat-square&logo=flutter&logoColor=fff) 
-![.net](https://img.shields.io/badge/.NET-512BD4?flat-square&logo=.net&logoColor=fff) 
+<!--![.net](https://img.shields.io/badge/.NET-512BD4?flat-square&logo=.net&logoColor=fff)-->
 
 ### Backend
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
