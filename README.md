@@ -49,7 +49,13 @@ I am <b>Kenneth Andales</b>, a Fullstack Web Developer that wants to improve and
 ### Tools
 ![adobephotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?flat-square&logo=adobephotoshop&logoColor=fff) 
 ![figma](https://img.shields.io/badge/Figma-F24E1E?flat-square&logo=figma&logoColor=fff) 
-<!--
-## Social Media Accounts
+![visualstudiocode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?flat-square&logo=visualstudiocode&logoColor=fff) 
+![postman](https://img.shields.io/badge/Postman-FF6C37?flat-square&logo=postman&logoColor=fff) 
+![googlechrome](https://img.shields.io/badge/Google%20Chrome-4285F4?flat-square&logo=googlechrome&logoColor=fff) 
+![heroku](https://img.shields.io/badge/Heroku-430098?flat-square&logo=heroku&logoColor=fff) 
 
-##### ![gmail](https://img.shields.io/badge/Gmail-EA4335?flat-square&logo=gmail&logoColor=fff&link=http://left&link=mailto:keanolida7296@gmail.com) <a href='mailto:keanolida7296@gmail.com'>keanolida7296@gmail.com</a>-->
+
+## Contacts
+
+![minutemailer](https://img.shields.io/badge/Email-005FF9?flat-square&logo=minutemailer&logoColor=fff&link=http://left&link=mailto:keanolida7296@gmail.com) <br/>
+<a href='mailto:keanolida7296@gmail.com'>keanolida7296@gmail.com</a>
