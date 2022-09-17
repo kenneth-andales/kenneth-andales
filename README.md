@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff) 
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff) 
 ![csharp](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=csharp&logoColor=fff) 
-![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)  
+<!--![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)-->
 
 ### Libraries and Frameworks
 ![tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff) 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff) 
 ![jquery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff) 
 ![react](https://img.shields.io/badge/React%20Js-61DAFB?style=for-the-badge&logo=react&logoColor=000) 
-![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff) 
-![vite](https://img.shields.io/badge/.Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff) <br/>
+<!--![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)-->
+![vite](https://img.shields.io/badge/.Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff) 
 ![codeigniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=fff) 
